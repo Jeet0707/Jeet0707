@@ -7,7 +7,7 @@
 
 - I'm currently studying **Computer Science Engineering.**
 
-- 🌱 I’m currently learning **Arduino, Nvidia Jetson Nano and Raspberry. Pi**
+- 🌱 I’m currently learning **Arduino, Nvidia Jetson Nano and Raspberry Pi.**
 
 - I'm SMART INDIA HACKATHON 2023 **Hardware Edition RunnerUp.**
 
