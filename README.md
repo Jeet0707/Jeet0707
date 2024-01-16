@@ -1,4 +1,4 @@
-![logo](https://github.com/Jeet0707/Jeet0707/blob/main/github%20bannner.jpg)
+![logo](https://github.com/Jeet0707/Jeet0707/blob/main/Blue%20and%20White%20Neon%20Programmer%20Personal%20Branding%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jeet Verma😀.</h1>
 <h3 align="center">A passionate Innovator and Developer from India.</h3>
 <img align="right" alt="Coding" width+"400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3eNAxDRoOsxQBDIWNEFssM&ust=1705492240153000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCwte7r4YMDFQAAAAAdAAAAABAS">
