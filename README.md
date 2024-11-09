@@ -7,13 +7,13 @@
 
 - I'm currently studying **Computer Science Engineering.**
 
-- 🌱 I’m currently learning **Arduino, Nvidia Jetson Nano and Raspberry Pi.**
+- 🌱 I’m currently learning **Arduino, Nvidia Jetson Nano, Linux and Raspberry Pi.**
 
-- I'm SMART INDIA HACKATHON 2023 **Hardware Edition RunnerUp.**
+- I'm SMART INDIA HACKATHON 2023 **Hardware Edition Finalist and RunnerUp.**
 
 - 🔭 I’m currently working on **Automatic Vehicles and AI virtuial assistants.**
 
-- 📫 How to reach me **jeet07verma@gmail.com**
+- 📫 How to reach me **jeetverma0774@gmail.com**
 
 - ⚡ Fun fact **I'm comedic😜.**
 
